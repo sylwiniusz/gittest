@@ -11,5 +11,9 @@ public class test {
         this.test4 = test4;
         this.zmianaSylwestera = zmianaSylwestera;
     }
+
+    void method(String name){
+        String zmienna = name;
+    }
 }
 
