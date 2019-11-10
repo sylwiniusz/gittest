@@ -27,5 +27,8 @@ public class test {
     }
 
     void zmianaBranchTest(){}
+
+
+    void zmianaBranchTestSTAGING(){}
 }
 
