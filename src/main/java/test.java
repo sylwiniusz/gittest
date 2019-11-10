@@ -4,6 +4,7 @@ public class test {
     public String test4;
     public String sylwesterPoZmianie;
     public String zmianaSylwestera;
+    public String zmianaLukasza;
 
     public test(String test, String test2, String test4, String zmianaSylwestera) {
         this.test = test;
