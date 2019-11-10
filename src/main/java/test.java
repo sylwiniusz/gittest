@@ -3,4 +3,12 @@ public class test {
     public String test2;
     public String test4;
     public String zmianaSylwestera;
+
+    public test(String test, String test2, String test4, String zmianaSylwestera) {
+        this.test = test;
+        this.test2 = test2;
+        this.test4 = test4;
+        this.zmianaSylwestera = zmianaSylwestera;
+    }
 }
+
