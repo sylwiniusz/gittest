@@ -13,6 +13,10 @@ public class test {
         this.zmianaSylwestera = zmianaSylwestera;
     }
 
+    public void setZmianaLukasza(String zmianaLukasza) {
+        this.zmianaLukasza = zmianaLukasza;
+    }
+
     void method(String name){
         String zmienna = name;
     }
