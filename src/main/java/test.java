@@ -20,5 +20,13 @@ public class test {
     void method(String name){
         String zmienna = name;
     }
+
+    void method2(String name){
+        String zmienna = name;
+    }
+
+    void method3(String name){
+        String zmienna = name;
+    }
 }
 
