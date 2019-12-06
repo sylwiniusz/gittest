@@ -25,5 +25,10 @@ public class test {
     void method3(String name){
         String zmienna = name;
     }
+
+    void zmianaBranchTest(){}
+
+
+    void zmianaBranchTestSTAGING(){}
 }
 
