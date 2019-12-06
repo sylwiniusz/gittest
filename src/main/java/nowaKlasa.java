@@ -1,3 +1,9 @@
 public class nowaKlasa {
-    public String test;
+    String test;
+
+    public String test1(){
+        test = "jula";
+
+        return test;
+    }
 }
