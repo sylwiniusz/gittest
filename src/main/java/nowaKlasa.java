@@ -3,5 +3,8 @@ public class nowaKlasa {
 }
 
 public class staging {
+  gitstatuschecking;
 
+
+  addafterpoczekalnia;
 }
