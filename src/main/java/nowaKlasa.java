@@ -1,5 +1,5 @@
 public class nowaKlasa {
-    public String test;
+    public String test = "master";
 }
 
 public class staging {
